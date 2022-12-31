@@ -1,0 +1,59 @@
+#visual {
+    flex-grow: 1;
+    width: 100%;
+    height: 100%;
+  } 
+
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 0;
+  }
+  #main {
+    display: flex;
+    flex: 1;
+  }
+  #svgcanvas {
+    display: flex;
+    flex: 1;
+  }
+  #main > article {
+    flex: 1;
+    order: 1;
+    text-align: center;
+  }
+  #main > nav, 
+
+  #main > nav {
+    background: #D7E8D4;
+    order: 3;
+  }
+
+  header, footer {
+    height: 5%;
+    background:#007bff;
+    text-align: center;
+    color: #fff;
+  }
+  #yearSelector{
+    max-height: 500px;
+    max-width: 10px;
+    overflow-y: scroll;
+  }
+  #countrySelector{
+    max-height: 500px;
+    max-width: 10px;
+    overflow-y: scroll;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:4em;
+  }
+  .welcome{
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 4em;
+  }
