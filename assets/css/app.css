@@ -37,14 +37,14 @@
     color: #fff;
   }
   #yearSelector{
-   
+    max-height: 500px;
     max-width: 10px;
     overflow-y: scroll;
   }
   #countrySelector{
-   
+   max-height: 500px;
     max-width: 10px;
-    overflow-y: scroll;
+    overflow: auto;
   }
   .center {
     display: block;
