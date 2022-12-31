@@ -89,11 +89,9 @@ function populateDD()
     // When user selects a year from the countrySelector dropdown, it will set the paramter and filter variables. These are saved outside of the function itself in case a window
     // resize event is called, it can redisplay the same information without the user having to click another option. When user clicks it will also disable the tutorial text.            
     d3.select('#countrySelector')
-            .append("option")
             .selectAll('option')
             .data(countryOptions)
-            .join()
-            .append('option')
+            .join('option')
             .text(d => d)
             .attr('value', d => d)
             .on("click", function(d){
@@ -103,7 +101,7 @@ function populateDD()
                 parameter = "country";
                 getCSVData(parameter, filter)
             })
-            .style("max-height", getHeight(svgcanvas));       
+            
             });
 }
 
