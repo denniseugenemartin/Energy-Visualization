@@ -14,7 +14,7 @@
 
 ## Site
 
-[amazingstuffshop.azurewebsites.net](https://amazingstuffshop.azurewebsites.net/)
+[https://denniseugenemartin.github.io/Energy-Visualization/](https://denniseugenemartin.github.io/Energy-Visualization/)
 
 ## Built With
 
