@@ -42,8 +42,8 @@
     overflow-y: scroll;
   }
   #countrySelector{
-    max-height: 500px;
-    max-width: 10px;
+    /* max-height: 500px;
+    max-width: 10px; */
     overflow-y: scroll;
   }
   .center {
@@ -53,7 +53,7 @@
     padding:4em;
   }
   .welcome{
-    margin-left: 35%;
-    margin-right: 35%;
+    margin-left: 30%;
+    margin-right: 30%;
     padding: 4em;
   }
