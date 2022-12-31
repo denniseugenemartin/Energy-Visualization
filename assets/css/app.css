@@ -37,7 +37,7 @@
     color: #fff;
   }
   #yearSelector{
-    max-height: 500px;
+    /* max-height: 500px; */
     max-width: 10px;
     overflow-y: scroll;
   }
