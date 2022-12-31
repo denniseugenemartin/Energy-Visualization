@@ -23,12 +23,12 @@
     order: 1;
     text-align: center;
   }
-  #main > nav, 
+* #main > nav, 
 
   #main > nav {
     background: #D7E8D4;
     order: 3;
-  }
+  } 
 
   header, footer {
     height: 5%;
@@ -43,7 +43,7 @@
   }
   #countrySelector{
     max-height: 500px;
-    /* max-width: 10px; */
+    max-width: 10px;
     overflow-y: scroll;
   }
   .center {
