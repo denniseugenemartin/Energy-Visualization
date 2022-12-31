@@ -3,7 +3,7 @@
 
 
 
-![screenshot](https://github.com/denniseugenemartin/AmazingStuffShop/blob/main/screenshot1.png)
+![screenshot](https://github.com/denniseugenemartin/Energy-Visualization/blob/main/screenshot.PNG)
 
 ## Key Features
 
