@@ -10,7 +10,7 @@
 * Parses raw data from spreadsheet files (.csv) and dynamically converts data based on user selected filter parameters.
 * User is able to select filter parameters for data from dropdown menus. These drop down menus are dynamically generated based on the columns present in the .csv files.
 * Designed with D3.js, which allows for physics based data simulation. Interaction between data clusters features elements such as collision detection and gravity.
-* Responsive design draws graphics using svg format. Unlike standard graphics formats, this does not lose fidelity upon enlarging/zooming in. Additionaly, functionality has been imnplemented that will draw the viewing area and individual graphics to fill the space allowed on client end. Resizing of window dimensions will regenerate and resize graphics automatically.
+* Responsive design draws graphics using svg format. Unlike standard graphics formats, this does not lose fidelity upon enlarging/zooming in. Additionally, functionality has been implemented that will draw the viewing area and individual graphics to fill the space allowed on client end. Resizing of window dimensions will regenerate and resize graphics automatically.
 
 ## Site
 
